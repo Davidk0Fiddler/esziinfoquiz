@@ -10,48 +10,48 @@ let questions = [
     },
     {
         question: "mi a ram (random access memory) feladata:",
-        answers: ["Adatok ideiglenes tárolása a számítógép működéséhez.", "Képek megjelenítése.", "A programok számításainak elvégzése.", "A számítógép áramellátásának biztosítása."],
-        final: "Adatok ideiglenes tárolása a számítógép működéséhez."
+        answers: ["adatok ideiglenes tárolása a számítógép működéséhez.", "képek megjelenítése.", "a programok számításainak elvégzése.", "a számítógép áramellátásának biztosítása."],
+        final: "adatok ideiglenes tárolása a számítógép működéséhez."
     },
     {
-        question: "Mi a szoftver fejlesztés?",
-        answers: ["Kenyerek sütése", "Autó alkatrész legyártása", "Új gyógyszer feltalálása","Programok írása"],
-        final: "Programok írása"
+        question: "mi a szoftver fejlesztés?",
+        answers: ["kenyerek sütése", "autó alkatrész legyártása", "új gyógyszer feltalálása","programok írása"],
+        final: "programok írása"
     },
     {
-        question: "Mit/Miket használnak a programozók a munkájukhoz?",
+        question: "mit/miket használnak a programozók a munkájukhoz?",
         answers: [ "villanysütőt", "forrasztó pálcát", "csavarhúzókat","programozási nyelveket"],
         final: "programozási nyelveket"
     },
     {
-        question: "Mit jelent az „automatizálás” a robotikában?",
-        answers: ["Feladatok elvégzése emberi beavatkozás nélkül.", "Robot programozása kézzel.", "Internet használata.", "Hangvezérlés."],
-        final: "Feladatok elvégzése emberi beavatkozás nélkül."
+        question: "mit jelent az „automatizálás” a robotikában?",
+        answers: ["feladatok elvégzése emberi beavatkozás nélkül.", "robot programozása kézzel.", "internet használata.", "hangvezérlés."],
+        final: "feladatok elvégzése emberi beavatkozás nélkül."
     },
     {
-        question: "Mi a Wi-Fi (Wireless Fidelity) feladata?",
-        answers: ["Számítógép gyorsítása.", "Programozás.", "Adatok vezeték nélküli továbbítása.", "Fájlok törlése."],
-        final: "Adatok vezeték nélküli továbbítása."
+        question: "mi a wi-fi (wireless fidelity) feladata?",
+        answers: ["számítógép gyorsítása.", "programozás.", "adatok vezeték nélküli továbbítása.", "fájlok törlése."],
+        final: "adatok vezeték nélküli továbbítása."
     },
     {
-        question: "Mi a vírus a számítógép világában?",
-        answers: ["Fertőző állat.", "Kártevő program.", "Új szoftver.", "Internetes oldal."],
-        final: "Kártevő program."
+        question: "mi a vírus a számítógép világában?",
+        answers: ["fertőző állat.", "kártevő program.", "új szoftver.", "internetes oldal."],
+        final: "kártevő program."
     },
     {
-        question: "Mi a böngésző feladata?",
-        answers: ["Fájlok mentése.", "Internetes oldalak megjelenítése.", "Videó lejátszása.", "Kép szerkesztése."],
-        final: "Internetes oldalak megjelenítése."
+        question: "mi a böngésző feladata?",
+        answers: ["fájlok mentése.", "internetes oldalak megjelenítése.", "videó lejátszása.", "kép szerkesztése."],
+        final: "internetes oldalak megjelenítése."
     },
     {
-        question: "Melyik programmal lehet képet szerkezteni?",
-        answers: ["Microsoft Word", "Microsoft Excel", "Paint", "Jegyzettömb"],
-        final: "Paint"
+        question: "melyik programmal lehet képet szerkezteni?",
+        answers: ["microsoft word", "microsoft excel", "paint", "jegyzettömb"],
+        final: "paint"
     },
     {
-        question: "Mi az IP-cím (Internet Protocol-cím) célja a számítógépes hálózatokban?",
-        answers: ["Hálózati eszköz azonosítása.", "Adatok mentése.",  "Programok futtatása.", "Internet böngészése."],
-        final: "Hálózati eszköz azonosítása."
+        question: "mi az ip-cím (internet protocol-cím) célja a számítógépes hálózatokban?",
+        answers: ["hálózati eszköz azonosítása.", "adatok mentése.",  "programok futtatása.", "internet böngészése."],
+        final: "hálózati eszköz azonosítása."
     }
 ];
 
@@ -189,4 +189,5 @@ displayLandingContainer();
 
 // document.addEventListener("contextmenu", function(e) {
 //     e.preventDefault();
+
 // });
